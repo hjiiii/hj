@@ -1,0 +1,23 @@
+body{
+	background-color: black;
+	background-image: url("壁纸1.jpg");
+	background-size: cover;
+}
+div{
+	position: relative;
+} 
+img{
+	height: 100px;
+	width: 100px;
+	display: block;
+	border-radius: 50px;
+
+}
+#container{
+	background-color: ;
+	opacity: 60%;
+	height: 500px;
+	width: 500px;
+	margin: auto;
+	top: 100px;
+}
